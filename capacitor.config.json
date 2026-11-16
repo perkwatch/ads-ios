@@ -1,0 +1,1 @@
+{"appId":"com.buckthem.ads","appName":"BuckThem Ads","backgroundColor":"#ffffff","ios":{"contentInset":"always","preferredContentMode":"mobile"},"server":{"androidScheme":"https","cleartext":false,"url":"https://ads.buckthem.com/"},"webDir":"www"}
